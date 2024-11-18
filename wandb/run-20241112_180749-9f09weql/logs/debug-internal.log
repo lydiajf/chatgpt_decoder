@@ -1,0 +1,20 @@
+{"time":"2024-11-12T18:07:49.24606Z","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-12T18:07:49.246107Z","level":"INFO","msg":"created symlink","path":"/Users/lydiafarnham/visual studio code/mlx5/wandb/run-20241112_180749-9f09weql/logs/debug-core.log"}
+{"time":"2024-11-12T18:07:49.379714Z","level":"INFO","msg":"created new stream","id":"9f09weql"}
+{"time":"2024-11-12T18:07:49.380188Z","level":"INFO","msg":"stream: started","id":"9f09weql"}
+{"time":"2024-11-12T18:07:49.380151Z","level":"INFO","msg":"handler: started","stream_id":{"value":"9f09weql"}}
+{"time":"2024-11-12T18:07:49.380356Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"9f09weql"}}
+{"time":"2024-11-12T18:07:49.380386Z","level":"INFO","msg":"sender: started","stream_id":"9f09weql"}
+{"time":"2024-11-12T18:07:49.692749Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-12T18:08:23.030048Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-12T18:08:23.0353Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-12T18:08:23.305962Z","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-12T18:08:23.305986Z","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-12T18:08:23.305997Z","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-12T18:08:24.036087Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.566496584,"progress":"381.6KB/381.6KB"}],"total_operations":1}}
+{"time":"2024-11-12T18:08:24.121447Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-12T18:08:25.384698Z","level":"INFO","msg":"stream: closing","id":"9f09weql"}
+{"time":"2024-11-12T18:08:25.384939Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"9f09weql"}}
+{"time":"2024-11-12T18:08:25.385461Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"9f09weql"}}
+{"time":"2024-11-12T18:08:25.385809Z","level":"INFO","msg":"sender: closed","stream_id":"9f09weql"}
+{"time":"2024-11-12T18:08:25.386578Z","level":"INFO","msg":"stream: closed","id":"9f09weql"}

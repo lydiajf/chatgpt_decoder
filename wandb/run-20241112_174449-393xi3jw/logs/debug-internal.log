@@ -1,0 +1,8 @@
+{"time":"2024-11-12T17:44:49.968561Z","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-12T17:44:49.968621Z","level":"INFO","msg":"created symlink","path":"/Users/lydiafarnham/visual studio code/mlx5/wandb/run-20241112_174449-393xi3jw/logs/debug-core.log"}
+{"time":"2024-11-12T17:44:50.102506Z","level":"INFO","msg":"created new stream","id":"393xi3jw"}
+{"time":"2024-11-12T17:44:50.102927Z","level":"INFO","msg":"stream: started","id":"393xi3jw"}
+{"time":"2024-11-12T17:44:50.103121Z","level":"INFO","msg":"sender: started","stream_id":"393xi3jw"}
+{"time":"2024-11-12T17:44:50.10301Z","level":"INFO","msg":"handler: started","stream_id":{"value":"393xi3jw"}}
+{"time":"2024-11-12T17:44:50.103166Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"393xi3jw"}}
+{"time":"2024-11-12T17:44:50.460945Z","level":"INFO","msg":"Starting system monitor"}

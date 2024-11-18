@@ -1,0 +1,35 @@
+{
+  "os": "macOS-14.3-x86_64-i386-64bit",
+  "python": "3.12.7",
+  "startedAt": "2024-11-12T16:14:28.588097Z",
+  "program": "/Users/lydiafarnham/visual studio code/mlx5/Tranformer_project/first_task.py",
+  "codePath": "Tranformer_project/first_task.py",
+  "email": "farnhamlydia@gmail.com",
+  "root": "/Users/lydiafarnham/visual studio code/mlx5",
+  "host": "MacBook-Pro-2.local",
+  "username": "lydiafarnham",
+  "executable": "/Users/lydiafarnham/visual studio code/mlx5/transformers_env/bin/python",
+  "codePathLocal": "Tranformer_project/first_task.py",
+  "cpu_count": 11,
+  "cpu_count_logical": 11,
+  "disk": {
+    "/": {
+      "total": "494384795648",
+      "used": "223294631936"
+    }
+  },
+  "memory": {
+    "total": "19327352832"
+  },
+  "cpu": {
+    "count": 11,
+    "countLogical": 11
+  },
+  "apple": {
+    "name": "Unknown",
+    "ecpuCores": 6,
+    "pcpuCores": 5,
+    "gpuCores": 14,
+    "memoryGb": 18
+  }
+}

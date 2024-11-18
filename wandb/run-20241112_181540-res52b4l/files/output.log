@@ -1,0 +1,13 @@
+Epoch 1, Loss: 1.5890319347381592
+Epoch 2, Loss: 1.588038682937622
+Epoch 3, Loss: 1.5871542692184448
+Epoch 4, Loss: 1.5862963199615479
+Epoch 5, Loss: 1.5854122638702393
+Epoch 6, Loss: 1.584532380104065
+Epoch 7, Loss: 1.5836516618728638
+Epoch 8, Loss: 1.5827629566192627
+Epoch 9, Loss: 1.5818670988082886
+Epoch 10, Loss: 1.5809686183929443
+
+Original sequence: <s> A A B B C C <e> <s> A A B B C C <e> <s> A A B B C C <e> <s> A A B B C C <e> <s> A A B B C C <e>
+Generated sequence: C C C C C C C C C C C C C C C C C C C C

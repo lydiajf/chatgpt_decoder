@@ -1,0 +1,20 @@
+{"time":"2024-11-12T17:58:26.644787Z","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-12T17:58:26.644838Z","level":"INFO","msg":"created symlink","path":"/Users/lydiafarnham/visual studio code/mlx5/wandb/run-20241112_175826-bojc4kpn/logs/debug-core.log"}
+{"time":"2024-11-12T17:58:26.778087Z","level":"INFO","msg":"created new stream","id":"bojc4kpn"}
+{"time":"2024-11-12T17:58:26.77832Z","level":"INFO","msg":"stream: started","id":"bojc4kpn"}
+{"time":"2024-11-12T17:58:26.778613Z","level":"INFO","msg":"sender: started","stream_id":"bojc4kpn"}
+{"time":"2024-11-12T17:58:26.778611Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"bojc4kpn"}}
+{"time":"2024-11-12T17:58:26.778527Z","level":"INFO","msg":"handler: started","stream_id":{"value":"bojc4kpn"}}
+{"time":"2024-11-12T17:58:27.241621Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-12T17:59:00.620464Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-12T17:59:00.625795Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-12T17:59:01.198194Z","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-12T17:59:01.198231Z","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-12T17:59:01.198242Z","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-12T17:59:01.623992Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.248712375,"progress":"384.8KB/384.8KB"}],"total_operations":1}}
+{"time":"2024-11-12T17:59:02.081024Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-12T17:59:03.385751Z","level":"INFO","msg":"stream: closing","id":"bojc4kpn"}
+{"time":"2024-11-12T17:59:03.386012Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"bojc4kpn"}}
+{"time":"2024-11-12T17:59:03.386669Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"bojc4kpn"}}
+{"time":"2024-11-12T17:59:03.386743Z","level":"INFO","msg":"sender: closed","stream_id":"bojc4kpn"}
+{"time":"2024-11-12T17:59:03.388037Z","level":"INFO","msg":"stream: closed","id":"bojc4kpn"}
