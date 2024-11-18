@@ -56,7 +56,7 @@ class encoder(torch.nn.Module):
         # Calculate attention scores and apply softmax
         scaling_factor = self.head_dim ** 0.5
         similarity_matrix = torch.matmul(query, key.transpose(-2, -1)) / scaling_factor
-
+ 
         # Apply upper triangular mask (if required for causality)
         mask = torch.triu(torch.ones_like(similarity_matrix), diagonal=1) * -1e9
         similarity_matrix = similarity_matrix + mask

@@ -66,7 +66,7 @@ class Decoder(torch.nn.Module):
 
         # Apply upper triangular mask (if required for causality)
         mask = torch.triu(torch.ones_like(attention), diagonal=1) * -1e9
-        attention = attention + mask
+        attention = attention + mask 
 
         # Apply softmax to get attention weights
         soft_matrix = torch.softmax(attention, dim=-1)
