@@ -105,7 +105,7 @@ class Decoder(torch.nn.Module):
         # No positional encoding needed for image embeddings (Pemb)
         Pseq_len = Pemb.size(0)  # Image sequence length is just the first dimension
         print("The Pemb shape:", Pemb.shape) 
-
+ 
         # Transform embeddings for query, key, and value
         query = self.linear_q(Wemb).view(Wseq_len, self.num_heads, self.Whead_dim).transpose(0, 1)
         key = self.linear_k(Pemb).view(Pseq_len, self.num_heads, self.Phead_dim).transpose(0, 1)
