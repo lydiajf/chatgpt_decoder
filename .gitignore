@@ -20,3 +20,4 @@ bin-release/
 transformers_env/
 wandb/
 MNIST/
+__pycache__
