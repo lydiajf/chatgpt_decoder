@@ -4,6 +4,11 @@ import numpy as np
 from encoder import Encoder
 from decoder import Decoder2, MaskedAttention, CrossAttention, getPositionEncoding
 
+
+# todo : training loop 
+# normalisation of layers
+# batching 
+
 class Transformer(torch.nn.Module):
     def __init__(
         self,
